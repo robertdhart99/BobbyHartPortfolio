@@ -5,7 +5,8 @@ for localhost deployment:
 cd into correct file path
 
 npm install --force or --legacy-peer-deps
-	* uses react-reveal which causes problems with other modern dependencies. 
+	
+uses react-reveal which causes problems with other modern dependencies. 
 
 npm start 
 
