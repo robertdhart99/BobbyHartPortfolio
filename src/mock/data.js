@@ -134,7 +134,7 @@ export const aboutData = {
         "I am currently doing contract work for Gameday PR as a front-end developer. In this role, I lead the initiative to redesign two websites, <a href='https://www.fearcincinnati.com/' target='_blank'>Cincinnati Fear</a> and <a href='https://www.bettheben.com/' target='_blank'>Bet the Benjamin</a>. Utilizing Adobe XD mockups, I ensure higher performance in alignment with the company's key performance indicators (KPIs). I actively implement approved mockup changes, focusing on improving SEO for a higher click-through rate (CTR) and enhancing the viewer experience to increase retention rate and improve call-to-action (CTA).",
     paragraphThree: '',
     resume:
-        'https://drive.google.com/file/d/1u3yxXbi4erlStnDBSUDnS9-1Py5QbFrC/view?usp=sharing',
+        'https://drive.google.com/file/d/1c8vPo47_x9-IbuSOrReAEXqoj-hrPHbw/view?usp=sharing',
 };
 
 // PROJECTS DATA
