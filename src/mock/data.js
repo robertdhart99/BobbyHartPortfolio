@@ -69,7 +69,7 @@ export const skillsData = {
         {
             id: nanoid(),
             name: 'C#',
-            img: require('../images/c#.png').default,
+            img: require('../images/c.png').default,
         },
         {
             id: nanoid(),
