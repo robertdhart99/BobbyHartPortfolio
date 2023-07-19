@@ -3,9 +3,14 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Projects",
-    "\\src\\pages"
+    "\\src\\components\\Footer",
+    "\\src\\components\\Hero",
+    "\\src\\mock",
+    "\\src\\style",
+    "\\src\\style\\abstracts",
+    "\\src\\style\\base",
+    "\\src\\style\\components"
   ],
-  "SelectedNode": "\\src\\pages\\index.js",
+  "SelectedNode": "\\netlify.toml",
   "PreviewInSolutionExplorer": false
 }
