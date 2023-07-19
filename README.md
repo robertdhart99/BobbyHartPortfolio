@@ -14,6 +14,6 @@ can be found on localhost:8000
 
 was originally made with an older Gatsby template running on node 13.14.0 but many of the dependencies had depreciated so I moved the content over to a modern base Gatsby template with more current dependencies. 
 
-I moved between node versions with nvm on a Windows environment. 
+I moved between node versions with nvm in a Windows environment. 
 
 
