@@ -3,7 +3,7 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Skills",
+    "\\src\\components\\Contact",
     "\\src\\context",
     "\\src\\images",
     "\\src\\mock",
@@ -11,6 +11,6 @@
     "\\src\\style\\base",
     "\\src\\style\\components"
   ],
-  "SelectedNode": "\\src\\mock\\data.js",
+  "SelectedNode": "\\src\\components\\Contact\\Contact.jsx",
   "PreviewInSolutionExplorer": false
 }
