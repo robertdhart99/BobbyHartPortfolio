@@ -4,10 +4,16 @@ for localhost deployment:
 
 cd into correct file path
 
-npm install --force 
-	* uses react-reveal which causes problems with other dependencies. 
+npm install --force or --legacy-peer-deps
+	
+uses react-reveal which causes problems with other modern dependencies. 
 
 npm start 
 
 can be found on localhost:8000
+
+was originally made with an older Gatsby template running on node 13.14.0 but many of the dependencies had depreciated so I moved the content over to a modern base Gatsby template with more current dependencies. 
+
+I moved between node versions with nvm in a Windows environment. 
+
 
