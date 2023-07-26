@@ -115,6 +115,7 @@ const Skills = () => {
                 <Fade bottom duration={1000} delay={600} distance="30px">
                     <div className="skills-title">
                         <h2 className="section-title">Skills</h2>
+                        <p>Click to reveal</p>
                     </div>
                 </Fade>
                 <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={500} distance="30px">
